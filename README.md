@@ -1,8 +1,19 @@
-# React + Vite
+# Weather Application using MERN Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a simple weather application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It fetches current weather data from an external API and renders it on the user interface.
 
-Currently, two official plugins are available:
+## Features
+- Display current weather information based on user location.
+- Search for weather information of any location using the search bar.
+- User-friendly interface with intuitive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- MongoDB: For storing user data and preferences.
+- Express.js: Backend framework for handling API requests and routing.
+- React.js: Frontend library for building user interfaces.
+- Node.js: Runtime environment for executing JavaScript code on the server.
+- OpenWeatherMap API: External API used for fetching weather data.
+
+## OUTPUT
+![Screenshot 2024-03-22 202739](https://github.com/Mern-Full-Stack-Projects/weather/assets/136311079/851ad61c-bda8-4ce2-8b54-cfb8f9ae1784)
